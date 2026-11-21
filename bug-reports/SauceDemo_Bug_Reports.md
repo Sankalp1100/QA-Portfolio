@@ -33,7 +33,7 @@ Every bug below is **reproduced automatically** on each run by [known-bugs.spec.
 Each of the 6 products shows its own picture (backpack, bike light, t-shirt, etc.).
 
 **Actual result**
-All 6 products show the same image (a dog picture), so images do not match the product names.
+All 6 products show the same placeholder image, so images do not match the product names.
 
 **Impact**
 Users cannot see what they are buying. Looks broken and reduces trust, but the purchase can still continue.
